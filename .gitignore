@@ -1,0 +1,8 @@
+.DS_Store
+/venv/
+/.idea/
+decoratorOperations/__pycache__/
+decoratorOperations/debounce_functions/__pycache__/
+build/
+dist/
+timeAnnotations.egg-info/
