@@ -11,6 +11,8 @@ with open("README.md", "r") as fh:
 PACKAGES = [
     "decoratorOperations",
     "decoratorOperations.debounce_functions",
+    "decoratorOperations.filter_functions",
+    "decoratorOperations.ignore_functions",
     "decoratorOperations.throttle_functions",
 ]
 
