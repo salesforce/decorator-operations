@@ -8,8 +8,12 @@ Most of the annotations are an adapation of [RxJS operators](https://rxmarbles.c
  
 ## How to install
 
-If you want to install this locally, clone this repo, then run
+If you want to install this project, you may install it directly from this repository using pip:
+```sh
+pip install 'git+https://github.com/salesforce/decorator-operations'
+```
 
+Alternatively, you may clone this repo, `cd` into it, then run
 ```sh
 pip install .
 ```
